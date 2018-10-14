@@ -1,0 +1,7 @@
+C:\Users\Yasin\Desktop\BackEnd\C#\14_10_2018\14_10_2018\bin\Debug\14_10_2018.exe.config
+C:\Users\Yasin\Desktop\BackEnd\C#\14_10_2018\14_10_2018\bin\Debug\14_10_2018.exe
+C:\Users\Yasin\Desktop\BackEnd\C#\14_10_2018\14_10_2018\bin\Debug\14_10_2018.pdb
+C:\Users\Yasin\Desktop\BackEnd\C#\14_10_2018\14_10_2018\obj\Debug\14_10_2018.csprojResolveAssemblyReference.cache
+C:\Users\Yasin\Desktop\BackEnd\C#\14_10_2018\14_10_2018\obj\Debug\14_10_2018.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\Desktop\BackEnd\C#\14_10_2018\14_10_2018\obj\Debug\14_10_2018.exe
+C:\Users\Yasin\Desktop\BackEnd\C#\14_10_2018\14_10_2018\obj\Debug\14_10_2018.pdb
